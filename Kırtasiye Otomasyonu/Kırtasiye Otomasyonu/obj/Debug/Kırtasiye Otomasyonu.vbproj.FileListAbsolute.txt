@@ -1,0 +1,17 @@
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye Otomasyonu.vbproj.AssemblyReference.cache
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye_Otomasyonu.Form1.resources
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye_Otomasyonu.frmMüşteriEkle.resources
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye_Otomasyonu.Resources.resources
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye Otomasyonu.vbproj.GenerateResource.cache
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye Otomasyonu.vbproj.CoreCompileInputs.cache
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\bin\Debug\Kırtasiye Otomasyonu.exe.config
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\bin\Debug\Kırtasiye Otomasyonu.exe
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\bin\Debug\Kırtasiye Otomasyonu.pdb
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\bin\Debug\Kırtasiye Otomasyonu.xml
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye Otomasyonu.exe
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye Otomasyonu.xml
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye Otomasyonu.pdb
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye_Otomasyonu.frmMüşteriListele.resources
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye_Otomasyonu.frmKategori.resources
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye_Otomasyonu.frmMarka.resources
+C:\Users\aysep\Desktop\Kırtasiye Otomasyonu\Kırtasiye Otomasyonu\obj\Debug\Kırtasiye_Otomasyonu.frmÜrünEkle.resources
